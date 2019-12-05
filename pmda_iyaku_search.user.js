@@ -5,7 +5,7 @@
 // @description  添付文書検索ページの改造
 // @author       koyahee
 // @match        http*://www.pmda.go.jp/PmdaSearch/iyakuSearch/*
-// @require     https://raw.githubusercontent.com/koyahee/userscripts/edit/master/pmda_iyaku_search.user.js
+// @require      https://raw.githubusercontent.com/koyahee/userscripts/edit/master/pmda_iyaku_search.user.js
 // @grant        none
 // ==/UserScript==
 
